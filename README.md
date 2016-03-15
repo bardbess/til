@@ -4,6 +4,8 @@
 
 A public place to share my notes, commands, tips and syntax for things I've learned.
 
+You wanted a banana, but what you got was a gorilla holding a banana - and the entire jungle.
+
 ## About
 
 This is not a new idea, there are many great TILs out there already.
