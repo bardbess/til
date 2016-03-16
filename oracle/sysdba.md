@@ -78,3 +78,7 @@ Datapump over a database link
 ```
   impdp dbname/dbpass DIRECTORY=dmpdir TABLE_EXIST_ACTION=[TRUNCATE/APPEND] CONTENT=METADATA_ONLY REMAP_SCHEMA=old:new DATA_OPTIONS=SKIP_CONSTRAINT_ERRORS NETWORK_LINK=linkname EXCLUDE=TRIGGER:\"LIKE \'%_CHECK\'\"
 ```
+Export to an older version of oracle from a newer version
+```bash
+  expdp dbname/dbpass compression=all directory=backups dumpfile=dbname_v11.dmp version=11.2
+```
