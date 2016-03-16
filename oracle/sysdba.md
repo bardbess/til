@@ -15,6 +15,9 @@ Find database dump location
 ```plsql
   show parameter user_dump_dest;
 ```
+
+## Sessions
+
 Dropping/Killing a user session
 ```plsql
   select sid,serial# from v$session where username = '';
@@ -23,6 +26,30 @@ Dropping/Killing a user session
 Disable/Enable new connections from being created
 ```plsql
   alter system disable/enable restricted session;
+```
+Increasing oracle SESSION parameter `ORA-00018 maximum number of sessions exceeded`
+
+If you are planning on increasing "sessions" you should also plan to increase "processes" and "transactions" parameters.
+A basic formula for determining  these parameter values is as follows
+
+> processes=x
+> sessions=x*1.1+5
+> transactions=sessions*1.1
+ 
+Check Current Setting of Parameters
+```plsql
+  show parameter sessions
+  show parameter processes
+  show parameter transactions
+```
+  
+Parameters cant be modified in memory. You have to modify the spfile (scope=spfile) and bounce the instance.
+```plsql
+  alter system set processes=500 scope=spfile;
+  alter system set sessions=555 scope=spfile;
+  alter system set transactions=610 scope=spfile;
+  shutdown abort
+  startup 
 ```
 ----
 Creating a public database link
