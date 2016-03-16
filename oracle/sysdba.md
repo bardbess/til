@@ -1,6 +1,7 @@
 # Admin SQL
 
 Make sure the oracle variables are correctly set up before making changes to the database. `. oraenv`
+
 Use `lnsctl` to control the tnslistener
 
 Find out the database name

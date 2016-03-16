@@ -50,6 +50,7 @@ Update machine timezone
 * Redhat: `redhat-config-date`
 * CentOS/Fedora: `system-config-date`
 * FreeBSD/Slackware: `tzselect`
+
 [Change Timezone in Linux](http://www.wikihow.com/Change-the-Timezone-in-Linux)
 
 Changing a machine mac address on unix
