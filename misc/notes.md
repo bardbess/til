@@ -72,3 +72,23 @@ Eager load from rails console
 ```ruby
   Rails.application.eager_load!
 ```
+
+## Traffic Routing
+
+If your using a VPN and dont want to send all your traffic across it you can change the gateway for only certain connections.
+
+On OSX to tell traffic from an ip range to go through a different interface/gateway use. This example sends all requests to 10.64.*.* over the VPN.
+```bash
+  route add 10.64.0.0/16 -interface ppp0
+```
+
+Since this change will be cleared you whenever the network is changed you can add a more permanent 
+solution by creating a `/etc/ppp/ip-up` (and if you need `ip-down`) file. Make sure this file is
+executable `chmod +x /etc/ppp/ip-up`.
+
+Now you can set any routes you want and have them configure whenever you connect to your vpn connection.
+
+```bash
+  #!/bin/sh
+  /sbin/route add 10.64.0.0/16 -interface $1
+```
