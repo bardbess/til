@@ -3,11 +3,11 @@
 During this Seder meal, the story of the Exodus from Egypt is retold using a special text called the Haggadah. 
 The Haggadah consists of 15 parts ~ also see Psalm 15:
 
-1. Kadeish קדש – recital of Kiddush blessing and drinking of the first cup of wine
-2. Urchatz ורחץ – the washing of the hands – without blessing
-3. Karpas כרפס – dipping of the karpas in salt water
-4. Yachatz יחץ – breaking the middle matzo; the larger piece becomes the afikoman which is eaten later during the ritual of Tzafun
-5. Maggid מגיד – retelling the Passover story, including the recital of "the four questions" and drinking of the second cup of wine
+1. Kadeish קדש – Kiddush blessing of the wine/cups and the eventing. Drinking of the first cup
+2. Urchatz ורחץ – washing of the hands – without blessing
+3. Karpas כרפס – dipping of the karpas/vegetable in salt water
+4. Yachatz יחץ – breaking the middle matzo; the larger piece becomes the afikoman
+5. Maggid מגיד – retelling of Passover, recital of "the four questions", drinking of the second cup
 6. Rachtzah רחצה – second washing of the hands – with blessing
 7. Motzi מוציא – traditional blessing before eating bread products
 8. Matzo מצה – blessing before eating matzo
@@ -15,11 +15,11 @@ The Haggadah consists of 15 parts ~ also see Psalm 15:
 10. Koreich כורך – eating of a sandwich made of matzo and maror
 11. Shulchan oreich שולחן עורך – lit. "set table"—the serving of the holiday meal
 12. Tzafun צפון – eating of the afikoman
-13. Bareich ברך – blessing after the meal and drinking of the third cup of wine
-14. Hallel הלל – recital of the Hallel, traditionally recited on festivals; drinking of the fourth cup of wine
+13. Bareich ברך – blessing after the meal and drinking of the third cup
+14. Hallel הלל – recital of the Hallel, drinking of the fourth cup
 15. Nirtzah נירצה – conclusion
 
-## The Four Cups
+### The Four Cups
 
 The Four Cups represent the four expressions of deliverance promised by God Exodus 6:6-7: 
 - I will bring you out from under the burdens of the Egyptians
@@ -27,10 +27,10 @@ The Four Cups represent the four expressions of deliverance promised by God Exod
 - I will redeem you with an outstretched arm and with great acts of judgment. 
 - I will take you to be my people, and I will be your God..
 
-There is also a custom to fill a fifth cup (but not necessarily drink it) to express the fifth expression of redemption in Exodus 6:8. 
+There is a custom to fill a fifth cup (but not necessarily drink it) for the fifth expression of redemption in Exodus 6:8:
 - I will bring you into the land that I swore to give to Abraham, to Isaac, and to Jacob...
 
-## Hallel (song of praise)
+### Hallel (song of praise)
 
 > **Mathew 26:17-30**
 >
