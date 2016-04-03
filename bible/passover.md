@@ -44,3 +44,6 @@ There is a custom to fill a fifth cup (but not necessarily drink it) for the fif
 
 When Matthew records that Christ and his apostles sung an hymn and went to the Mount of Olives, they were following the prescribed Passover tradition of reciting "**Hallel**". 
 The first two psalms, 113 and 114, were recited before the meal, the remaining psalms 115-118, are recited at this point.
+
+“Hall-el-lu-jah.” Hallel means praise—hallelujah, praise to God. The Hallel, often known as the Egyptian Hallel is found in Psalms 113–118. 
+It was called the Egyptian Hallel because it was sung at national feasts like the Passover, which the Jews would celebrate their deliverance out of Egypt.
