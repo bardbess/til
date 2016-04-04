@@ -33,3 +33,12 @@ the [SSH Support for Pull Request](https://marketplace.atlassian.com/plugins/de.
   # SSH Support for pull requests
   command echo $MSG | ssh git@mybitbucket.com -p7999 pull-request
 ```
+
+Now we create a pull request for the current branch over ssh from the terminal.
+- The first characters is used as the pull request title
+- The commit message is the pull request description
+- The project will match the current git repository project
+
+```bash
+  git pull-request
+```
