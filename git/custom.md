@@ -16,12 +16,13 @@ Now you can put whatever you need in the new pull request file, this example tak
 the [SSH Support for Pull Request](https://marketplace.atlassian.com/plugins/de.aeffle.stash.plugins.create-pull-request-via-ssh/server/overview) bitbucket plugin.
 
 ```bash
+  #!/bin/bash
   # Get the current branch
   GIT_BRANCH=`git rev-parse --abbrev-ref HEAD`
   # Project abbr - hardcoded for now
-  PROJECT_ABBR='SOUP'
-  # Get the project name
-  PROJECT_NAME=`git remote -v | head -n1 | awk '{print $2}' | sed -e 's,.*:\(.*/\)\?,,' -e 's/\.git$//'`
+  PROJECT_ABBR='BOB'
+  # Get the project name (osx compatible)
+  PROJECT_NAME=`git remote -v | head -n1 | awk '{print $2}' | sed -e 's,/, ,g'| awk '{print $NF}' | sed -e 's/\.git$//'`
   # Get a title for the commit message - we will use the first word of the commit message
   TITLE=`git show -s --format=%B | head -n1 | cut -d " " -f1`
   # JSON parameters we will be sending
