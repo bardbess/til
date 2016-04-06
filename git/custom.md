@@ -26,7 +26,7 @@ the [SSH Support for Pull Request](https://marketplace.atlassian.com/plugins/de.
   # Get a title for the commit message - we will use the first word of the commit message
   TITLE=`git show -s --format=%B | head -n1 | cut -d " " -f1`
   # JSON parameters we will be sending
-  MSG="{'title': '$TITLE', 'description': `git show -s --format=%B`, 'state': 'OPEN',
+  MSG="{'title': '$TITLE', 'description': '`git show -s --format=%B`', 'state': 'OPEN',
   'fromRef': { 'id': 'refs/heads/$GIT_BRANCH', 'repository': { 'slug': '$PROJECT_NAME', 'project': { 'key': '$PROJECT_ABBR' }}},  
   'toRef': { 'id': 'refs/heads/master', 'repository': { 'slug': '$PROJECT_NAME', 'project': { 'key': '$PROJECT_ABBR' }}} }"
 
