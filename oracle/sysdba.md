@@ -82,3 +82,19 @@ Export to an older version of oracle from a newer version
 ```bash
   expdp dbname/dbpass compression=all directory=backups dumpfile=dbname_v11.dmp version=11.2
 ```
+### Tablespace
+
+To get a list of tablespaces, in this example temp tablespaces.
+
+```plsql
+  SELECT tablespace_name, file_name, bytes FROM dba_temp_files WHERE tablespace_name like 'TEMP%';
+```
+
+**Shrink the temporary tablespace** - rather than having to drop and recreate a smaller tablespace oracle introduced this handy command in 11g.
+
+```plsql
+  alter tablespace <your_temp_ts> shrink space keep 128M;
+```
+
+
+

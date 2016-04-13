@@ -42,3 +42,9 @@ Now we create a pull request for the current branch over ssh from the terminal.
 ```bash
   git pull-request
 ```
+
+Deleting all branches except for those in the whitelist.
+
+```bash
+  git branch -D `git branch | awk '{ if ($0 !~ /master|production/) printf "%s", $0 }'`
+```
