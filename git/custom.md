@@ -48,3 +48,9 @@ Deleting all branches except for those in the whitelist.
 ```bash
   git branch -D `git branch | awk '{ if ($0 !~ /master|production/) printf "%s", $0 }'`
 ```
+
+Undelete all deleted files
+
+```bash
+  git ls-files -d | xargs git checkout -- 
+```
