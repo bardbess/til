@@ -1,6 +1,6 @@
 ## Trinity of God
 
-One God. Identical same nature (undivided same nature) fully possessed by each member of the trinity.
+>One God. Identical same nature (undivided same nature) fully possessed by each member of the trinity.
 Father, Son and Holy Spirit.
 
 Humans have an equality of the same kind. You and I have the same kind of nature but are different.
@@ -53,7 +53,7 @@ of all things. Through whom he (Father) created the world.
 `1 Corinthians 8` - From the father, through the Son. 
 `John 1` - Word is only used in the prologue. The rest of the time its Son - because Gen 1. In the beginning
 was the "word". Thinking creation. God speaks. Then God said. The Son - the word of the Father is the agent.
-That the world was created through him. *The father is the architect. The Son builds it. The spirit gives life.*
+That the world was created through him. **The father is the architect. The Son builds it. The spirit gives life.**
 40 times Jesus mentions being sent into the world by the father.
 `John 3V16` - God the father gives his only Son - God did not send his son into the world to ... the father
 has authority to send his own Son. Don't hear those words to mean however the Son did not want to come. 
