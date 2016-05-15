@@ -1,6 +1,6 @@
 ## Trinity of God
 
-(https://vimeo.com/153840044)[The Roles Among the Trinity] Bruce Ware
+[The Roles Among the Trinity](https://vimeo.com/153840044) Bruce Ware
 
 >One God. Identical same nature (undivided same nature) fully possessed by each member of the trinity.
 Father, Son and Holy Spirit.
