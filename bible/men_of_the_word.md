@@ -1,8 +1,8 @@
 ## Men of the Word
 
-What the bible is -> [ What we do with it, How we handle it ]
+> What the bible is -> [ What we do with it, How we handle it ]
 
-2 Timothy 3:14 - 4:8
+`2 Timothy 3:14 - 4:8`
 
 #### What the bible is
 All scripture is God breathed (the bible is Gods word)
@@ -26,15 +26,17 @@ Level            |              |      Desc
 
 #### The Power of Expository Preaching - Dr John MacArthur
 Seven points of commitment to bible exposition:
+
 1. Establishing the authority of Gods Word. God reigns over thoughts and actions and is sovereign over souls.
 2. Exalting the lordship of Christ over His church through the presence of his Word.
-3. The Spirit uses the Word of God to save and sanctify. The Word and the Spirit are inseparable when it comes to ministry. 
+3. The Spirit uses the Word of God to save and sanctify. The Word and the Spirit are inseparable when it comes to ministry.
 4. Honors the priority of Bible study by example.
 5. Guards against contracting what the Word of God says.
 6. Impacts the genuineness of worship through a deeper understanding of the gospel.
 7. Protects the listeners by equipping them with what the Word says.
 
 Results of Bible exposition:
+
 1. Genuine Christians - uncomfortable for hypocrites.
 2. Biblically based thinking
 3. Clearly development convictions, and therefore strength.
