@@ -12,6 +12,7 @@ All scripture is God breathed (the bible is Gods word)
 #### What we do with it
 Preach the word. Reproof, Rebuke, Exhort.
 
+a            |      b        |      c
 ------------ | ------------- | -------------
 Level 5 | Practical Theology | how does it apply to life
 Level 4 | Systematic Theology | What does the whole bible say
