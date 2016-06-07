@@ -46,12 +46,14 @@ Results of Bible exposition:
 
 ### The Basic Steps of Bible Study
 
-1. **Observation - What does it say?** |
-  There are **many** observations to be made
-2. **Interpretation - What does it mean?** |
-  There is only **one** correct interpretation
-3. **Application - What does it mean to me?** |
-  There are **many** applications that can be made
+1. **Observation - What does it say?** 
+> There are **many** observations to be made
+
+2. **Interpretation - What does it mean?** 
+> There is only **one** correct interpretation
+
+3. **Application - What does it mean to me?** 
+> There are **many** applications that can be made
 
 ### Key Principals of Bible Interpretation
 
