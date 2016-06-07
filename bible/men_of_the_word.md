@@ -55,17 +55,19 @@ Results of Bible exposition:
 
 ### Key Principals of Bible Interpretation
 
-1. ####**Literal**
+1. **Literal** |
   Every text should be taken literally unless there is something in the text which indicates otherwise.
-2. **Contextual**
+2. **Contextual** |
   What is the *context* of the passage? Do the verses *before* and *after* the verse help me to understand the meaning?
-  Galatians 5 `do not get drunk with wine, but be filled with the Spirit` -> context says it written to believers, those that have already received the Spirit. Passage about self control, not about losing control.
-3. **Historical**
+  ```Galatians 5 `do not get drunk with wine, but be filled with the Spirit` 
+  context says it written to believers, those that have already received the Spirit. 
+  Passage about self control, not about losing control.```
+3. **Historical** |
   What is the historical background of the passage? Does the culture and customs of the original situation help me to understand?
-4. **Grammatical**
+4. **Grammatical** |
   Are there words or grammar which might be significant and need to be studied further?
   Ephesians 5:18 `but be filled with the Spirit` -> `be filled` -> present tense, continuous/habitual -> But be being filled with the Spirit -> Be controlled by the Holy Spirit.
-5. **Spiritual**
+5. **Spiritual** |
   We rely on the illuminating work of the Holy Spirit in order to properly understand His Word. Prayer and purity of life are therefore essential.
 
 
