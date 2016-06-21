@@ -96,5 +96,10 @@ To get a list of tablespaces, in this example temp tablespaces.
   alter tablespace <your_temp_ts> shrink space keep 128M;
 ```
 
+** Finding the largest tables **
+
+```plsql
+  select * from ( select owner, segment_name, bytes/1024/1024 Size_Mb from dba_segments order by bytes/1024/1024  DESC ) where rownum <= 20
+```
 
 
