@@ -60,6 +60,9 @@ Results of Bible exposition:
 **Hermeneutics:** The rules - principals used to discover the meaning.
 **Exegesis:** Application of interpretive rules to the actual task of interpretation. ("to lead out")
 
+There is a God given meaning in the text, all that matters is what God intends to say.
+Not just a data dump.
+
 1. **Literal** |
   Every text should be taken literally unless there is something in the text which indicates otherwise.
 2. **Contextual** |
@@ -88,13 +91,18 @@ Other methods of Interpretation used through Church history
 **Allegory:** A story, poem or picture that can be interpreted to reveal a hidden meaning.
 **Post-Modern:** 
 
+**DO NOT:**
+1. make a point at the cost of a proper interpretation (do not prescribe your theology and then make the bible fit it).
+2. spiritualise or allegorise the text.
+3. superficial study
+
 ### Reasons to study the word
 
 Because of:
 1. All that opposes Gods Word in our culture
 2. The commands of scripture to be people of the Word (`Romans 12:1-2`, `Colossians 3:16`)
 3. The call to live and proclaim Gods Word in the World (`Matthew 28:18-20`, `1 Peter 2:9`)
-4. The need for mature spiritual men to lead in the home and church (`2 Timothy 2:1-2`,`1 Timothy 3:17`, `Titus 1:5-9`)
+4. The need for mature spiritual men to lead in the home and church (`2 Timothy 2:1-2`, `1 Timothy 3:17`, `Titus 1:5-9`)
 
 **Key Verses**
 `Ezra 7:10`, `Isa 66:1-2`, `Matt 5:18`, `Matt 24:35`, `John 7:14-18`, `John 10:35`, `2 Tim 3:14-4:6`
