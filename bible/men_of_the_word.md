@@ -87,11 +87,12 @@ Not just a data dump.
 
 Other methods of Interpretation used through Church history
 
-**Eisegesis:** Making the bible say what you want. "into". Interpreting a text in a way that introduces ones own presuppositions, agendas...
-**Allegory:** A story, poem or picture that can be interpreted to reveal a hidden meaning.
-**Post-Modern:** 
+- **Eisegesis:** Making the bible say what you want. "into". Interpreting a text in a way that introduces ones own presuppositions, agendas...
+- **Allegory:** A story, poem or picture that can be interpreted to reveal a hidden meaning.
+- **Post-Modern:** 
 
 **DO NOT:**
+
 1. make a point at the cost of a proper interpretation (do not prescribe your theology and then make the bible fit it).
 2. Spiritualise or allegorise the text.
 3. Superficial study
@@ -99,6 +100,7 @@ Other methods of Interpretation used through Church history
 ### Reasons to study the word
 
 Because of:
+
 1. All that opposes Gods Word in our culture
 2. The commands of scripture to be people of the Word (`Romans 12:1-2`, `Colossians 3:16`)
 3. The call to live and proclaim Gods Word in the World (`Matthew 28:18-20`, `1 Peter 2:9`)
