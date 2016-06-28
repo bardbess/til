@@ -83,7 +83,7 @@ Not just a data dump.
   e.g.: OT characters did not know what we - who have the NT know.
 
 7. **Spiritual** |
-  We rely on the illuminating work of the Holy Spirit in order to properly understand His Word. Prayer and purity of life are therefore essential.
+  We rely on the illuminating work of the Holy Spirit in order to properly understand His Word. *Prayer and purity of life are therefore essential*.
 
 Other methods of Interpretation used through Church history
 
@@ -107,10 +107,12 @@ Because of:
 **Key Verses**
 `Ezra 7:10`, `Isa 66:1-2`, `Matt 5:18`, `Matt 24:35`, `John 7:14-18`, `John 10:35`, `2 Tim 3:14-4:6`
 
+### Preparing to Preach
 
  Order       |  ^          | ^            | ^            | =>
 ------------ | ------------ | ------------- | ------------- | ------------ 
- 3           | Expression     | Communication       | Speaking      | **Sermon Notes**
- 2           | Exposition (expository sermon)     | Construction (of sermon)       | Sermonizing      | Illustrations. Clear Language/Simple. Logical Flow/Outline/Sermon points. Sermon title. **Write a full manuscript**
- 1           | Exegesis     | Content       | Studying      | Personal Application. Observation. Interpretation (**Principals**: Literal, Historical, Grammatical, Geographical, Context)
+ 4 (purpose) | Equip Saints. Exalting God. Evangelizing unbelievers.     | Convert Sinners. Counsel Saints. Worship. Confrontation. | Save Sinners. Sanctify Saints. Worship | **Congregational Application** (so what?)
+ 3           | Expression     | Communication       | Speaking      | Time allocation. Body language/Eye contact. Voice/Expression/Clarity/Speed/Rate. PowerPoint. Be Natural.`Blood-earnest. **Sermon Notes**
+ 2           | Exposition (expository sermon)     | Construction (of sermon)       | Sermonizing      | Illustrations. Clear Language/Simple. Logical Flow/Outline/Sermon points. Introduction. Conclusion. Sermon title. **Write a full manuscript**
+ 1           | Exegesis     | Content       | Studying      | **Personal Application**. Observation. Interpretation (**Principals**: Literal, Historical, Grammatical, Geographical, Context)
           
