@@ -111,6 +111,8 @@ Because of:
 
 ### Preparing to Preach
 
+Stages in preparing to preach. Starting from the bottom up. prayer and purity of life are essential parts to this process.
+
  Order       |  ^          | ^            | ^            | =>
 ------------ | ------------ | ------------- | ------------- | ------------ 
  4 (purpose) | Equip Saints. Exalting God. Evangelizing unbelievers.     | Convert Sinners. Counsel Saints. Worship. Confrontation. | Save Sinners. Sanctify Saints. Worship | **Congregational Application** (so what?)
