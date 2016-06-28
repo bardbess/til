@@ -111,10 +111,7 @@ Because of:
  Order       |  =>          | =>            | =>            |
 ------------ | ------------ | ------------- | ------------- | ------------ 
  2           | Exposition (expository sermon)     | Construction (of sermon)       | Sermonizing      | Personal Application
------------- | ------------ | ------------- | ------------- | ------------ 
  1           | Exegesis     | Content       | Studying      | Personal Application
------------- | ------------ | ------------- | ------------- | ------------ 
              |              |               |               | => Observation
------------- | ------------ | ------------- | ------------- | ------------ 
              |              |               |               | => Interpretation -> **Principals**: Literal, Historical, Grammatical, Geographical, Context
           
