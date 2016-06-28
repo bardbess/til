@@ -108,5 +108,13 @@ Because of:
 `Ezra 7:10`, `Isa 66:1-2`, `Matt 5:18`, `Matt 24:35`, `John 7:14-18`, `John 10:35`, `2 Tim 3:14-4:6`
 
 
-
-
+ Order       |  =>          | =>            | =>            |
+------------ | ------------ | ------------- | ------------- | ------------ 
+ 2           | Exposition (expository sermon)     | Construction (of sermon)       | Sermonizing      | Personal Application
+------------ | ------------ | ------------- | ------------- | ------------ 
+ 1           | Exegesis     | Content       | Studying      | Personal Application
+------------ | ------------ | ------------- | ------------- | ------------ 
+             |              |               |               | => Observation
+------------ | ------------ | ------------- | ------------- | ------------ 
+             |              |               |               | => Interpretation -> **Principals**: Literal, Historical, Grammatical, Geographical, Context
+          
