@@ -120,3 +120,6 @@ A breakdown on preparing a sermon, starting from the bottom up. Prayer and purit
  2           | Exposition (expository sermon)     | Construction (of sermon)       | Sermonizing      | Illustrations. Clear Language/Simple. Logical Flow/Outline/Sermon points. Introduction. Conclusion. Sermon title. **Write a full manuscript**
  1           | Exegesis     | Content       | Studying      | **Personal Application**. Observation. Interpretation (**Principals**: Literal, Historical, Grammatical, Geographical, Context)
           
+Resources:
+
+- Living by the Book by Howard Hendricks
