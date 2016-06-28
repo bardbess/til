@@ -93,8 +93,8 @@ Other methods of Interpretation used through Church history
 
 **DO NOT:**
 1. make a point at the cost of a proper interpretation (do not prescribe your theology and then make the bible fit it).
-2. spiritualise or allegorise the text.
-3. superficial study
+2. Spiritualise or allegorise the text.
+3. Superficial study
 
 ### Reasons to study the word
 
@@ -110,6 +110,7 @@ Because of:
 
  Order       |  ^          | ^            | ^            | =>
 ------------ | ------------ | ------------- | ------------- | ------------ 
+ 3           | Expression     | Communication       | Speaking      | 
  2           | Exposition (expository sermon)     | Construction (of sermon)       | Sermonizing      | Illustrations. Clear Language/Simple. Logical Flow/Outline/Sermon points. Sermon title.
  1           | Exegesis     | Content       | Studying      | Personal Application. Observation. Interpretation (**Principals**: Literal, Historical, Grammatical, Geographical, Context)
           
