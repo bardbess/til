@@ -111,7 +111,7 @@ Because of:
 
 ### Preparing to Preach
 
-Stages in preparing to preach. Starting from the bottom up. prayer and purity of life are essential parts to this process.
+A breakdown on preparing a sermon, starting from the bottom up. Prayer and purity of life are essential parts to this process.
 
  Order       |  ^          | ^            | ^            | =>
 ------------ | ------------ | ------------- | ------------- | ------------ 
