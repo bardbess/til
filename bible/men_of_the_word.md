@@ -113,13 +113,18 @@ Because of:
 
 A breakdown on preparing a sermon, starting from the bottom up. Prayer and purity of life are essential parts to this process.
 
- Order       |  ^          | ^            | ^            | =>
+ Steps       |  ^          | ^            | ^            | =>
 ------------ | ------------ | ------------- | ------------- | ------------ 
- 4 (purpose) | Equip Saints. Exalting God. Evangelizing unbelievers.     | Convert Sinners. Counsel Saints. Worship. Confrontation. | Save Sinners. Sanctify Saints. Worship | **Congregational Application** (so what?)
- 3           | Expression     | Communication       | Speaking      | Time allocation. Body language/Eye contact. Voice/Expression/Clarity/Speed/Rate. PowerPoint. Be Natural.`Blood-earnest. **Sermon Notes**
- 2           | Exposition (expository sermon)     | Construction (of sermon)       | Sermonizing      | Illustrations. Clear Language/Simple. Logical Flow/Outline/Sermon points. Introduction. Conclusion. Sermon title. **Write a full manuscript**
- 1           | Exegesis     | Content       | Studying      | **Personal Application**. Observation. Interpretation (**Principals**: Literal, Historical, Grammatical, Geographical, Context)
-          
+ Step 4 (purpose) | Equip Saints. Exalting God. Evangelizing unbelievers.     | Convert Sinners. Counsel Saints. Worship. Confrontation. | Save Sinners. Sanctify Saints. Worship | **Congregational Application** (so what?)
+ Step 3           | :arrow_up: **Expression**     | :arrow_up: **Communication**       | :arrow_up: **Speaking**      | :arrow_right: Time allocation. Body language/Eye contact. Language (simple words). Voice/Tone/Passion/Expression/Clarity/Speed/Rate. PowerPoint. Be Natural.`Blood-earnest. **Sermon Notes**
+ Step 2           | :arrow_up: **Exposition** (expository sermon)     | :arrow_up: **Construction** (of sermon)       | :arrow_up: **Sermonizing**      | :arrow_right: Illustrations. Clear Language/Simple. Logical Flow/Outline/Sermon points. Introduction. Conclusion. Sermon title. **Write a full manuscript**
+ Step 1           | :arrow_up: **Exegesis**     | :arrow_up: **Content**       | :arrow_up: **Studying**      | :arrow_right: **Personal Application**. Observation.  Interpretation ( **Principals**: Literal, Historical, Grammatical, Geographical, Context )
+
 Resources:
 
 - Living by the Book by Howard Hendricks
+
+#### Principals of Rhetoric
+1. Logos - Content (What)
+2. Ethos - Person (Who)
+3. Pathos - Passion (How)
