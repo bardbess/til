@@ -113,7 +113,7 @@ Because of:
 
 A breakdown on preparing a sermon, starting from the bottom up. Prayer and purity of life are essential parts to this process.
 
- Steps       |  ^          | ^            | ^            | =>
+ Steps       |  Step 1          | Step 2            | Step 3            | Info
 ------------ | ------------ | ------------- | ------------- | ------------ 
  Step 4 (purpose) | Equip Saints. Exalting God. Evangelizing unbelievers.     | Convert Sinners. Counsel Saints. Worship. Confrontation. | Save Sinners. Sanctify Saints. Worship | **Congregational Application** (so what?)
  Step 3           | :arrow_up: **Expression**     | :arrow_up: **Communication**       | :arrow_up: **Speaking**      | :arrow_right: Time allocation. Body language/Eye contact. Language (simple words). Voice/Tone/Passion/Expression/Clarity/Speed/Rate. PowerPoint. Be Natural.`Blood-earnest. **Sermon Notes**
