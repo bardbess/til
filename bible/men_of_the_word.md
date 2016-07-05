@@ -115,16 +115,28 @@ A breakdown on preparing a sermon, starting from the bottom up. Prayer and purit
 
  Steps       |  Step 1          | Step 2            | Step 3            | Info
 ------------ | ------------ | ------------- | ------------- | ------------ 
- Step 4 (purpose) | Equip Saints. Exalting God. Evangelizing unbelievers.     | Convert Sinners. Counsel Saints. Worship. Confrontation. | Save Sinners. Sanctify Saints. Worship | **Congregational Application** (so what?)
- Step 3           | :arrow_up: **Expression**     | :arrow_up: **Communication**       | :arrow_up: **Speaking**      | :arrow_right: Time allocation. Body language/Eye contact. Language (simple words). Voice/Tone/Passion/Expression/Clarity/Speed/Rate. PowerPoint. Be Natural.`Blood-earnest. **Sermon Notes**
- Step 2           | :arrow_up: **Exposition** (expository sermon)     | :arrow_up: **Construction** (of sermon)       | :arrow_up: **Sermonizing**      | :arrow_right: Illustrations. Clear Language/Simple. Logical Flow/Outline/Sermon points. Introduction. Conclusion. Sermon title. **Write a full manuscript**
- Step 1           | :arrow_up: **Exegesis**     | :arrow_up: **Content**       | :arrow_up: **Studying**      | :arrow_right: **Personal Application**. Observation.  Interpretation ( **Principals**: Literal, Historical, Grammatical, Geographical, Context )
+ **Step 4** (purpose) | Equip Saints. Exalting God. Evangelizing unbelievers.     | Convert Sinners. Counsel Saints. Worship. Confrontation. | Save Sinners. Sanctify Saints. Worship | **Congregational Application** (so what?)
+ **Step 3**           | :arrow_up: **Expression**     | :arrow_up: **Communication**       | :arrow_up: **Speaking**      | :arrow_right: Time allocation. Body language/Eye contact. Language (simple words). Voice, Tone, Passion, Expression, Clarity, Speed, Rate. PowerPoint. Be Natural. Blood-earnest. **Sermon Notes**
+ **Step 2**           | :arrow_up: **Exposition** (expository sermon)     | :arrow_up: **Construction** (of sermon)       | :arrow_up: **Sermonizing**      | :arrow_right: Illustrations. Clear Language/Simple. Logical Flow, Outline, Sermon points. Introduction. Conclusion. Sermon title. **Write a full manuscript**
+ **Step 1**           | :arrow_up: **Exegesis**     | :arrow_up: **Content**       | :arrow_up: **Studying**      | :arrow_right: **Personal Application**. Observation.  Interpretation ( **Principals**: Literal, Historical, Grammatical, Geographical, Context )
 
 Resources:
 
-- Living by the Book by Howard Hendricks
+- Living by the Book *by Howard Hendricks*
 
 #### Principals of Rhetoric
-1. Logos - Content (What)
-2. Ethos - Person (Who)
-3. Pathos - Passion (How)
+
+1. **Logos**  - Content (What)
+2. **Ethos**  - Person (Who)
+3. **Pathos** - Passion (How)
+
+#### Matthew 6:24-27
+
+http://www.desiringgod.org/labs/nine-arguments-against-anxiety
+
+**Main Point:** "Do not be anxious" (Matt. 6.25,27,28,31,34)
+
+1. The bible argues. It gives reasons for things, its thoughts are linked together.
+2. A unit of thought has one MAIN point - everything else in that unit supports the main point in some way
+3. Understanding a passage is knowing how the arguments support the main point
+
