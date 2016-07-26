@@ -116,9 +116,9 @@ A breakdown on preparing a sermon, starting from the bottom up. Prayer and purit
  Steps       |  Step 1          | Step 2            | Step 3            | Info
 ------------ | ------------ | ------------- | ------------- | ------------ 
  **Step 4** (purpose) | Equip Saints. Exalting God. Evangelizing unbelievers.     | Convert Sinners. Counsel Saints. Worship. Confrontation. | Save Sinners. Sanctify Saints. Worship | **Congregational Application** (so what?)
- **Step 3**           | :arrow_up: **Expression**     | :arrow_up: **Communication**       | :arrow_up: **Speaking**      | :arrow_right: Time allocation. Body language/Eye contact. Language (simple words). Voice, Tone, Passion, Expression, Clarity, Speed, Rate. PowerPoint. Be Natural. Blood-earnest. **Sermon Notes**
- **Step 2**           | :arrow_up: **Exposition** (expository sermon)     | :arrow_up: **Construction** (of sermon)       | :arrow_up: **Sermonizing**      | :arrow_right: Illustrations. Clear Language/Simple. Logical Flow, Outline, Sermon points. Introduction. Conclusion. Sermon title. **Write a full manuscript**
- **Step 1**           | :arrow_up: **Exegesis**     | :arrow_up: **Content**       | :arrow_up: **Studying**      | :arrow_right: **Personal Application**. Observation.  Interpretation ( **Principals**: Literal, Historical, Grammatical, Geographical, Context )
+ **Step 3**           | :arrow_up: **Expression**     | :arrow_up: **Communication**       | :arrow_up: **Speaking**  Communicating | :arrow_right: Time allocation. Body language/Eye contact. Language (simple words). Voice, Tone, Passion, Expression, Clarity, Speed, Rate. PowerPoint. Be Natural. Blood-earnest. **Sermon Notes**
+ **Step 2**           | :arrow_up: **Exposition** (expository sermon)     | :arrow_up: **Construction** (of sermon)       | :arrow_up: **Sermonizing** Explaining     | :arrow_right: Illustrations. Clear Language/Simple. Logical Flow, Outline, Sermon points. Introduction. Conclusion. Sermon title. **Write a full manuscript**
+ **Step 1**           | :arrow_up: **Exegesis**     | :arrow_up: **Content**       | :arrow_up: **Studying** Understanding     | :arrow_right: **Personal Application**. Observation.  Interpretation ( **Principals**: Literal, Historical, Grammatical, Geographical, Context )
 
 Resources:
 
