@@ -140,3 +140,13 @@ http://www.desiringgod.org/labs/nine-arguments-against-anxiety
 2. A unit of thought has one MAIN point - everything else in that unit supports the main point in some way
 3. Understanding a passage is knowing how the arguments support the main point
 
+#### Structuring a point
+
+> **True Religion**
+> 
+> Point 1 - Restrains the tongue (vs 26)
+> 
+> 1. Proof (show from the text)
+> 2. Picture (Illustrate - add clarity to the text)
+> 3. Penetration (Apply - implementation into life)
+
