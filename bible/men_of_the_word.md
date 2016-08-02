@@ -58,7 +58,7 @@ Results of Bible exposition:
 ### Key Principals of Bible Interpretation
 
 **Hermeneutics:** The rules - principals used to discover the meaning.
-**Exegesis:** Application of interpretive rules to the actual task of interpretation. ("to lead out")
+**Exegesis:** Application of interpretive rules to the actual task of interpretation. ("to lead out"). To relate or explain what is said or done
 
 There is a God given meaning in the text, all that matters is what God intends to say.
 Not just a data dump.
@@ -68,6 +68,13 @@ Not just a data dump.
 2. **Contextual** |
   What is the *context* of the passage? Do the verses *before* and *after* the verse help me to understand the meaning?
 > Galatians 5 `do not get drunk with wine, but be filled with the Spirit` -> context says it written to believers, those that have already received the Spirit. Passage about self control, not about losing control.
+
+Where does the text find itself:
+- **larger context and immediate context**
+- **On the grand scale*: Does the text look forward to the first coming of Christ, or backward at his first advent? Is it written before,during or after the ceremonial laws?
+- **within each Testament**: in the Law section? If so what was fulfilled/still effective? Is it Hebrew poetry? Prophesy? in the NT Gospels?
+- **in the bible**: foundational truth in the opening? Didactic or polemic truth in the main body? Climactic summation in the books conclusion.
+- **in the book**: how is the larger theme of the book supported? What focus precedes/follows the passage. Has the book already addressed the idea?
 
 3. **Historical** |
   What is the historical background of the passage? Does the culture and customs of the original situation help me to understand?
