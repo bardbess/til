@@ -158,6 +158,7 @@ Speaks about 100 words a minute
 **Note from Andy Simpson**
 
 > **Observation**
+
 > Takes on average around 25% of the overall time
 > 
 > - **Lexical** - looking at specific words
@@ -172,6 +173,7 @@ Speaks about 100 words a minute
 > 3. Repetition, contrast, similes, parallels, OT quotes/refs, commands, encouragements, life applications, etc
 > 
 > **Interpretation**
+
 > 1. Analysis of lexical/word meaning in context & syntactical/grammar relationships, leading to  translation of text
 > 2. Exegetical structure/outline
 > 3. Interpretive problems and theological emphasises
@@ -179,6 +181,7 @@ Speaks about 100 words a minute
 > 5. Exegetical synopsis & Exegetical proposition
 > 
 > **Generating the Sermon**
+
 > 1. Organisation
 >   - Universal key point/s or the big idea/s
 >   - Homiletical Outline & Homiletical Proposition
