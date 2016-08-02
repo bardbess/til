@@ -157,43 +157,43 @@ Speaks about 100 words a minute
 
 **Note from Andy Simpson**
 
-Observation 
-
-Takes on average around 25% of the overall time
-
-- **Lexical** - looking at specific words
-- **Syntactical** - how the words are arranged
-
-1. Read multiple times in different English version
-2. Who, what, where, when, why, wherefore (OT/NT recipients)
-  - Genre of the text
-  - Near & far context (including parallel passages)
-  - Cultural background & archaeology
-  - Biblical history / progressive revelation
-3. Repetition, contrast, similes, parallels, OT quotes/refs, commands, encouragements, life applications, etc
-
-Interpretation
-
-1. Analysis of lexical/word meaning in context & syntactical/grammar relationships, leading to  translation of text
-2. Exegetical structure/outline
-3. Interpretive problems and theological emphasises
-4. Consultation with commentaries & systematic theologies
-5. Exegetical synopsis & Exegetical proposition
-
-Generating the Sermon
-
-1. Organisation
-  - Universal key point/s or the big idea/s
-  - Homiletical Outline & Homiletical Proposition
-
-2. Explanation
- - Filling in the sermons content about the text & interpretation
- - Filling in introduction, conclusion, examples & references
-
-Application
- 
-  Inserting appropriate real life examples of main points
-
-Vocalisation 
-  
-  Planning style, tone, speed, expressions, volume, etc
+> Observation 
+> 
+> Takes on average around 25% of the overall time
+> 
+> - **Lexical** - looking at specific words
+> - **Syntactical** - how the words are arranged
+> 
+> 1. Read multiple times in different English version
+> 2. Who, what, where, when, why, wherefore (OT/NT recipients)
+>   - Genre of the text
+>   - Near & far context (including parallel passages)
+>   - Cultural background & archaeology
+>   - Biblical history / progressive revelation
+> 3. Repetition, contrast, similes, parallels, OT quotes/refs, commands, encouragements, life applications, etc
+> 
+> Interpretation
+> 
+> 1. Analysis of lexical/word meaning in context & syntactical/grammar relationships, leading to  translation of text
+> 2. Exegetical structure/outline
+> 3. Interpretive problems and theological emphasises
+> 4. Consultation with commentaries & systematic theologies
+> 5. Exegetical synopsis & Exegetical proposition
+> 
+> Generating the Sermon
+> 
+> 1. Organisation
+>   - Universal key point/s or the big idea/s
+>   - Homiletical Outline & Homiletical Proposition
+> 
+> 2. Explanation
+>  - Filling in the sermons content about the text & interpretation
+>  - Filling in introduction, conclusion, examples & references
+> 
+> Application
+>  
+>   Inserting appropriate real life examples of main points
+> 
+> Vocalisation 
+>   
+>   Planning style, tone, speed, expressions, volume, etc
