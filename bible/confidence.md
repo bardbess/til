@@ -24,13 +24,11 @@ come and recover it. Such is the force of the word.'"
 
 ### The confidence of a believers death
 
-- I go to prepare a place, and you know the way `John 14:1-5`
-- Whether we are awake or asleep we will live with Him `1 Thessalonians 5:9-11`
-- Our citizenship is in heaven `Philippians 3:20`
-- It is better to depart and be with Christ `Philippians 1:23-24`
-- We have a undefiled, unfading inheritance `1 Peter 1:3-5`
-- We shall see Christ `1 John 3:1-2`
-- We will never perish, no-one can snatch us/separate from His hands `John 10:27-29, Romans 8:38-39`
-- We die to the Lord `Romans 14:8`
+Where is our confidence in death?
+
+- This is not some unknown journey - a place is prepared for us, and we know the way `John 14:1-5`
+- Our citizenship, and inheritance (undefiled and unfading) is in heaven `Philippians 3:20, 1 Peter 1:3-5`
+- We die to the Lord, we shall see Him and we will be with Him `Philippians 1:23-24, 1 John 3:1-2, Romans 14:8`
+- We will never perish, no-one can snatch us/separate from His - whether we are awake or asleep. `John 10:27-29, Romans 8:38-39, 1 Thessalonians 5:9-11`
 - Death is rest from your labours `Revelation 14:13`
 
