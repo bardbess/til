@@ -205,7 +205,7 @@ Speaks about 100 words a minute
 
 #### Examining James 1:18
 
-`Origin > ` "Of *His `God`* own will"
-`What >   ` "*He `God`* brought *us `believers`* forth "
-`How >    ` "*by `means`* the word of truth "
-`Purpose >` "*that* we should be a kind of firstfruits of His creation"
+> Origin >  "Of *His `God`* own will"
+> What >    "*He `God`* brought *us `believers`* forth "
+> How >     "*by `means`* the word of truth "
+> Purpose > "*that* we should be a kind of firstfruits of His creation"
