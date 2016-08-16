@@ -163,9 +163,7 @@ http://www.desiringgod.org/labs/nine-arguments-against-anxiety
 Speaks about 100 words a minute
 
 **Note from Andy Simpson**
-
 > **Observation**
-
 > Takes on average around 25% of the overall time
 > 
 > - **Lexical** - looking at specific words
@@ -209,3 +207,35 @@ Speaks about 100 words a minute
 - `What >   ` "*He `God`* brought *us `believers`* forth "
 - `How >    ` "*by `means`* the word of truth "
 - `Purpose >` "*that* we should be a kind of firstfruits of His creation"
+
+### Greek Verbs
+
+------------ | ------------ 
+Tense  | present/aorist
+Moods  | imperative (command)/ indicative (statement)
+Voice  | active/passive
+
+Participle: verbal adjective. eg: "The *walking* dog"
+Specific to Participle.
+
+------------ | ------------ 
+Gender | masculine/feminine/neutral
+No     | singular/plural
+Case   | nominative (subject "*I* danced")/genitive (adjective/describe)/dative (indirect object)/accusative (direct object)
+
+> **Eph 5:18** "*be filled* with the Spirit"
+> 
+> Mood = imperative (command)
+> Voice = passive (yielding, allow the Holy Spirit to fill you)
+> Tense = present (be being filled, continuous)
+
+> ** Matt 7:13 "*Enter* through the narrow gate"
+>
+> Mood = imperative (command)
+> Tense = aorist (on time action)
+> Voice = active
+
+> Tim 4:22 "The Lord be with *your* spirit. Grace be with *you*"
+>
+> "your" = singular (i.e. Timothy)
+> "you" = plural (i.e. the whole church)
