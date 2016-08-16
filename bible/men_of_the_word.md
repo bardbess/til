@@ -210,6 +210,7 @@ Speaks about 100 words a minute
 
 ### Greek Verbs
 
+Name     | Desc
 ------------ | ------------ 
 Tense  | present/aorist
 Moods  | imperative (command)/ indicative (statement)
@@ -218,6 +219,7 @@ Voice  | active/passive
 Participle: verbal adjective. eg: "The *walking* dog"
 Specific to Participle.
 
+Name     | Desc
 ------------ | ------------ 
 Gender | masculine/feminine/neutral
 No     | singular/plural
