@@ -92,3 +92,13 @@ Now you can set any routes you want and have them configure whenever you connect
   #!/bin/sh
   /sbin/route add 10.64.0.0/16 -interface $1
 ```
+
+## Editors
+
+A list of wysiwyg and markup editors
+
+* https://simplemde.com
+* https://github.com/vmg/redcarpet
+* https://github.com/chjj/marked
+* http://xing.github.io/wysihtml5
+* https://jhollingworth.github.io/bootstrap-wysihtml5

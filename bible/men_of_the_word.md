@@ -187,6 +187,12 @@ Speaks about 100 words a minute
 > 
 > **Generating the Sermon**
 
+- Do not avoid problems
+- Have a parable perspective, the old testament is full of parables, Jesus spoke in parables...
+- Study for your own edification first
+- Speak with authority
+- Demand application, give assignments to help people apply it to their lives
+
 > 1. Organisation
 >   - Universal key point/s or the big idea/s
 >   - Homiletical Outline & Homiletical Proposition
@@ -241,3 +247,4 @@ Case   | nominative (subject "*I* danced")/genitive (adjective/describe)/dative 
 >
 > "your" = singular (i.e. Timothy)
 > "you" = plural (i.e. the whole church)
+
