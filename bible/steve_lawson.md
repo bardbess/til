@@ -74,4 +74,53 @@ Model the message - be the incarnation of what your preaching on
 - sanctification, salvation for some who hear you, growth in grace
 
 
+### Q and A
+
+On the reading of scripture - no set rule. What Steve did: 
+- read scripture twice (a psalm to lead in worship)
+- read scripture for preaching
+
+#### 1 Timothy 4
+##### implication
+tends to be general
+importance of scripture
+need to guard against error
+##### application
+tends to be specific
+application differs between settings (based on audience)
+Do you/i would encourage you to read scripture in the pulpit
+
+## Mechanics of Expository Preaching - Acts 2:14 -
+
+Peter will explain/blow open verse 21.
+
+### 1 Introduction
+Draws you in, should be inviting. Like the front portch of a house. The portch should not be bigger than the house.
+
+### 2 Read the text - vs 16
+
+### 3 Explain/Teach the text - v22-24
+Peter explains verse 21.
+Who - Jesus, who he is.. the life the person, the nature and then the death. Then the resurrection 
+
+### 4 Support the text - vs25-
+Call upon the rest of the bible to bear witness of what you say is true.
+Peter pulls in multiple texts to support his claim
+- Psalm 16:8-11 (twice)
+- Psalm 132:11 (vs 30)
+- Psalm 110 (vs 34b)
+
+### 5 Synthesis the text - vs 36
+Simplify and synthesis - make obvious what is the one main point (what is the big idea)
+Every sermon must have one point
+
+Not loose casual rambling language, but with precision, accuracy and authority.
+
+- **Jesus** - the saving name
+- **Christ** - the strong name
+- **Lord** - the sovereign name
+
+### 6 Apply/Exhort the text - vs 37
+And Peter said repent...
+
 
