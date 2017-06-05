@@ -185,10 +185,8 @@ And Peter said repent...
 What will separate one man from another is passion. Without passion there is no preaching. You are simply giving a lecture.
 Not doctrine, not theology, we can all buy the same books.
 
-"What is preaching?" - logic on fire
-
+*What is preaching? - logic on fire*
 A quality that arouses emotions.
-
 Hyper intellectualism - obsessed with doctrine and only brain orientated preachers.
 
 ### Passion 
@@ -202,7 +200,7 @@ Compassion - to feel something in the pit of your stomach.
 3. Passion of Pain
 4. Passion of Illness - so deeply affected by a disease that is creates a violent affection in the body
 
-Secondary Meanings
+##### Secondary Meanings
 1. Passive
 2. Affections - overpowering emotion
 
