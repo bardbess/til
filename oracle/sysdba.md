@@ -102,4 +102,17 @@ To get a list of tablespaces, in this example temp tablespaces.
   select * from ( select owner, segment_name, bytes/1024/1024 Size_Mb from dba_segments order by bytes/1024/1024  DESC ) where rownum <= 20
 ```
 
+### Dropping a database
 
+Manually dropping a database - will do the same as removing the datafiles, redo logs, controlfiles manually.
+
+```plsql
+sqlplus / as sysdba
+startup mount exclusive restrict
+exit
+rman target /
+drop database including backups noprompt;
+exit
+```
+
+After this, you still have to remove the entry that belongs to the database from `/etc/oratab`, remove `init.ora/spfile`, password file from `$ORACLE_HOME/dbs`, and clean log directories (adump, bdump, cdump, udump).
