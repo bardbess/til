@@ -248,3 +248,25 @@ Case   | nominative (subject "*I* danced")/genitive (adjective/describe)/dative 
 > "your" = singular (i.e. Timothy)
 > "you" = plural (i.e. the whole church)
 
+
+
+## Men of the Word 2017
+
+### The Call to be Men of the Word
+> 2 Timothy 2:15 - 19
+Do your best to present yourself to God as one approved...
+
+Ezra 7:10, Isa 66:1-2, Matt 5:18, Matt 24:35, John 7:14-18, John 10:35, 2 Tim 3:14-4:6
+
+### Hindrances 
+1. Faulty Methods of Bible Study
+
+- Allegory - looking for a deeper spiritual meaning beyond the plain meaning.
+- Higher Criticism - symbolic pointers of truth not objective containers of truth, denies the plain meaning of the text
+
+2. The natural enmity of the human heart
+
+Romans 8:7-8 (For the mind that is on the flesh is hostile to God..)
+John 3:19-20 (And this is the judgement: the light has come into the world...)
+
+
