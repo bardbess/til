@@ -102,6 +102,13 @@ To get a list of tablespaces, in this example temp tablespaces.
   select * from ( select owner, segment_name, bytes/1024/1024 Size_Mb from dba_segments order by bytes/1024/1024  DESC ) where rownum <= 20
 ```
 
+### Flush Cache
+
+```plsql
+  alter system flush buffer_cache;
+  alter system flush shared_pool;
+```
+
 ### Dropping a database
 
 Manually dropping a database - will do the same as removing the datafiles, redo logs, controlfiles manually.

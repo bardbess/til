@@ -19,19 +19,43 @@ the [SSH Support for Pull Request](https://marketplace.atlassian.com/plugins/de.
   #!/bin/bash
   # Get the current branch
   GIT_BRANCH=`git rev-parse --abbrev-ref HEAD`
+  TARGET_BRANCH="${1-master}"
+  #REVIEWERS="${2}"
+  IFS=' ' 
+  REVIEWERS=(${@:2})
+
   # Project abbr - hardcoded for now
   PROJECT_ABBR='BOB'
+
   # Get the project name (osx compatible)
   PROJECT_NAME=`git remote -v | head -n1 | awk '{print $2}' | sed -e 's,/, ,g'| awk '{print $NF}' | sed -e 's/\.git$//'`
+
   # Get a title for the commit message - we will use the first word of the commit message
   TITLE=`git show -s --format=%B | head -n1 | cut -d " " -f1`
+  TITLE="${TITLE//\"/\'}"
+  DESC=`git show -s --format=%B`
+  DESC="${DESC//\"/\'}" # Remove any double quotes and put single quotes in their place
+  DESC="${DESC/$TITLE/}" # remove the title from the description
+  if [[ -z "${param// }" ]]; then DESC=$TITLE; fi # use the title if the description is blank
+
   # JSON parameters we will be sending
-  MSG="{'title': '$TITLE', 'description': '`git show -s --format=%B`', 'state': 'OPEN',
+  MSG="{'title': \"$TITLE\", 'description': \"$DESC\", 'state': 'OPEN',
   'fromRef': { 'id': 'refs/heads/$GIT_BRANCH', 'repository': { 'slug': '$PROJECT_NAME', 'project': { 'key': '$PROJECT_ABBR' }}},  
-  'toRef': { 'id': 'refs/heads/master', 'repository': { 'slug': '$PROJECT_NAME', 'project': { 'key': '$PROJECT_ABBR' }}} }"
+  'toRef': { 'id': 'refs/heads/$TARGET_BRANCH', 'repository': { 'slug': '$PROJECT_NAME', 'project': { 'key': '$PROJECT_ABBR' }}}"
+
+  if [[ $REVIEWERS  ]]; then
+    MSG="$MSG,
+  'reviewers': ["
+    for item in "${REVIEWERS[@]}"; do 
+      MSG="$MSG {'user': { 'name': '$item' }},";
+    done;
+    MSG="${MSG%?} ]" # delete the least char (,)
+  fi
+
+  MSG="$MSG }";
 
   # SSH Support for pull requests
-  command echo $MSG | ssh git@mybitbucket.com -p7999 pull-request
+  (echo $MSG | ssh git@bitbucket pull-request) && git checkout $TARGET_BRANCH
 ```
 
 Now we create a pull request for the current branch over ssh from the terminal.
@@ -46,7 +70,7 @@ Now we create a pull request for the current branch over ssh from the terminal.
 Deleting all branches except for those in the whitelist.
 
 ```bash
-  git branch -D `git branch | awk '{ if ($0 !~ /master|production/) printf "%s", $0 }'`
+  git branch -D `git branch | awk '{ if ($0 !~ "^\ +(uat|release|production)|\ +master$") printf "%s", $0 }'`
 ```
 
 Undelete all deleted files

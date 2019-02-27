@@ -32,6 +32,23 @@ Self signed wildcard certificate
 
 ## Unix
 
+Flushing cache
+Free pagecache, dentries and inodes in cache memory
+
+```bash
+  sync; echo 3 > /proc/sys/vm/drop_caches
+```
+Free dentries and inodes use following command
+
+```bash
+  sync; echo 2 > /proc/sys/vm/drop_caches
+```
+Free pagecache only use following command
+
+```bash
+  sync; echo 1 > /proc/sys/vm/drop_caches
+```
+
 Fixing/Updating locales - this sets it to UTC NZ.
 ```bash
   sudo apt-get install language-pack-en-base
